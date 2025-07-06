@@ -27,4 +27,4 @@ The final LAN architecture provides a secure, scalable, and organized framework 
 
 ---
 
-![LAN Design Screenshot](./screenshot.png)
+![LAN Design Screenshot](./screenshot.png](https://github.com/i-am-rehan/LAN-Design/blob/main/Screenshot%202025-07-06%20190746.png))
